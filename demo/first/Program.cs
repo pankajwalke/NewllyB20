@@ -1,5 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("pankaj walke");
-Console.WriteLine("ashok walke");
-Console.WriteLine("yamutai walke");
+
+public class Program
+{
+    public static void Main()
+    {
+        flipkart f = new flipkart();    
+        f.a = 10;
+        f.b = 20;
+
+        Console.WriteLine($"Addition : {f.a} + {f.b} =  {f.add()}");
+    }
+}
