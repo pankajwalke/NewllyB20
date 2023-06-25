@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace first
 {
-    internal class flipkart
+    internal class Mintra
     {
-        public int a;
-        public int b;
-
-        public  int main()
+        public void m1()
         {
-            return a + b;
+            Console.WriteLine("My name is Lakhan");
         }
     }
 }
