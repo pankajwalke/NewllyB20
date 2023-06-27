@@ -15,7 +15,11 @@ namespace first
             Console.WriteLine("Hi all are right now");
 
             //we are all your friend
-           
+            Console.WriteLine("My name is Lakhan");
+
+            Console.WriteLine("Hi all are right now");
+
+            //we are all your friend
         }
     }
 }
