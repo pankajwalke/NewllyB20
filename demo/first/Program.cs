@@ -14,6 +14,7 @@ public class program
         Console.WriteLine("done by jaya");
         Console.Write("Git code demo");
         Mintra m = new Mintra();
+        Console.WriteLine("how to slove conflict");
         m.m1();
     }
 }
