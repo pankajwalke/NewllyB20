@@ -6,7 +6,9 @@ public class program
 {
     public static void Main()
     {
-        flipkart2 f = new flipkart2();
+
+        flipkart574 f = new flipkart574();
+
         f.a = 10;
         f.b = 20;
         Console.WriteLine($"Addition {f.a} + {f.b} = {f.main()}");
