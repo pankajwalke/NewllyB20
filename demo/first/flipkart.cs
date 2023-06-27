@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace first
 {
-    internal class flipkart1
+    internal class flipkart2
     {
         public int a;
         public int b;
