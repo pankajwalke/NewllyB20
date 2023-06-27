@@ -14,8 +14,13 @@ public class program
         Console.WriteLine($"Addition {f.a} + {f.b} = {f.main()}");
         Console.WriteLine("Hello!!");
         Console.WriteLine("done by jaya");
+
+        Console.Write("ok everything will be alright");
+        
+
         Console.Write("Git code demo");
         Console.WriteLine("changes done by me");
+
         Mintra m = new Mintra();
         Console.WriteLine("how to slove conflict");
         m.m1();
