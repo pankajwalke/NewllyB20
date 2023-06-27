@@ -11,7 +11,7 @@ public class program
         f.b = 20;
         Console.WriteLine($"Addition {f.a} + {f.b} = {f.main()}");
         Console.WriteLine("Hello!!");
-        Console.WriteLine("done by jaya")
+        Console.WriteLine("done by jaya");
         Console.Write("Git code demo");
         Mintra m = new Mintra();
         m.m1();
